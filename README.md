@@ -17,7 +17,7 @@ Begin your move by clicking on any square
 
 <h5> ‎</h5>
 
-<details>
+<details id="test">
   <summary></summary>
 <h5> ‎</h5>
 Hello
